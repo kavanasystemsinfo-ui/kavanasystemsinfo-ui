@@ -10,6 +10,7 @@ Busco incorporarme en **implantación de MES o ERP en planta, digitalización de
 | --- | --- |
 | [Kavana Manufacturing](https://github.com/kavanasystemsinfo-ui/kavana-manufacturing) | El parte de producción en la tablet del puesto, aunque se caiga el wifi |
 | [Kavana Steelworks](https://github.com/kavanasystemsinfo-ui/kavana-steelworks) | Gestión de la producción especializada en metalurgia: perfiladoras y bobina de acero, de la recepción de la bobina a la orden terminada |
+| [Automatización para pymes](https://github.com/kavanasystemsinfo-ui/kavana-automatizacion-pymes) | Partes de turno, vacaciones, facturas de proveedores y contactos de clientes automatizados con n8n, con aprobación desde el correo |
 | [Calculadora Kavana](https://github.com/kavanasystemsinfo-ui/CalculadoraKavana) | La eficiencia del turno, al momento y sin conexión |
 | [Laboratorio Odoo](https://github.com/kavanasystemsinfo-ui/ODOO_CRM) | Una empresa simulada completa en Odoo, montada desde cero |
 | [Kavana Warehouse](https://github.com/kavanasystemsinfo-ui/Kavana-Warehouse) | Cuánto gasta cada sección en EPIs, discos y consumibles, y dónde están las mermas |
